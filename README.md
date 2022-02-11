@@ -1,4 +1,12 @@
-### Hi there 👋
+### My boring readme
+
+- Contact me: 
+- Email: admin@xeutrino.shop
+- Discord: Jigsaw#0088
+
+
+
+
 
 <!--
 **Jigsaw88/Jigsaw88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
