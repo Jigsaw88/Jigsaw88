@@ -1,7 +1,7 @@
 ### My boring readme
 
 - Contact me: 
-- Email: admin@xeutrino.shop
+- Email: Jigsaw.dev@tutanota.com
 - Discord: Jigsaw#0088
 
 
