@@ -1,7 +1,7 @@
 ### My boring readme
 
 - Contact me: 
-- Email: Jigsaw.dev@tutanota.com
+- Email: Jigsaw@xeutrino.com
 - Discord: Jigsaw#0088
 
 
