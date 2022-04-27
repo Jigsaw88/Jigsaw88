@@ -2,7 +2,7 @@
 
 - Contact me: 
 - Email: Jigsaw@xeutrino.com
-- Discord: Jigsaw#0088
+- Discord: Jigsaw#0880
 
 
 
